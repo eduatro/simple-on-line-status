@@ -29,3 +29,10 @@ h1 {
 .offline {
   background-color: red;
 }
+
+.footer-version {
+  font-weight: 600;
+  font-style: italic;
+  margin: 30px auto;
+  width: 600px;
+}

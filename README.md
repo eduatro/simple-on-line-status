@@ -1,5 +1,5 @@
 # simple-on-line-status
-Muestra el estado de la conexión del navegor 
+Muestra el estado de la conexión del navegador 
 
 ## [Demo](https://unprojected-buy.000webhostapp.com/)
 

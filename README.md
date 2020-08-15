@@ -34,9 +34,7 @@ Muestra el estado de la conexión del navegador
 
 ### Paso 7
 - Eliminar el codigo en el archivo `status.js`
-- Revisar estado
-- Deshacer los cambios en el archivo `status.js`
-- Revisar estado
+- Re
 
 #### Genial 😊
  
